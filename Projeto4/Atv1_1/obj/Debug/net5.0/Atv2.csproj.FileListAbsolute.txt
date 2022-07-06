@@ -1,0 +1,16 @@
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto4\Atv1_1\obj\Debug\net5.0\Atv2.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto4\Atv1_1\obj\Debug\net5.0\Atv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto4\Atv1_1\obj\Debug\net5.0\Atv2.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto4\Atv1_1\obj\Debug\net5.0\Atv2.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto4\Atv1_1\obj\Debug\net5.0\Atv2.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto4\Atv1_1\bin\Debug\net5.0\Atv2.exe
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto4\Atv1_1\bin\Debug\net5.0\Atv2.deps.json
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto4\Atv1_1\bin\Debug\net5.0\Atv2.runtimeconfig.json
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto4\Atv1_1\bin\Debug\net5.0\Atv2.runtimeconfig.dev.json
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto4\Atv1_1\bin\Debug\net5.0\Atv2.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto4\Atv1_1\bin\Debug\net5.0\ref\Atv2.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto4\Atv1_1\bin\Debug\net5.0\Atv2.pdb
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto4\Atv1_1\obj\Debug\net5.0\Atv2.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto4\Atv1_1\obj\Debug\net5.0\ref\Atv2.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto4\Atv1_1\obj\Debug\net5.0\Atv2.pdb
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto4\Atv1_1\obj\Debug\net5.0\Atv2.genruntimeconfig.cache

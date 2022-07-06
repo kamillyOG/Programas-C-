@@ -1,0 +1,16 @@
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto5\Atividade9-2\bin\Debug\net5.0\Atividade9-2.exe
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto5\Atividade9-2\bin\Debug\net5.0\Atividade9-2.deps.json
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto5\Atividade9-2\bin\Debug\net5.0\Atividade9-2.runtimeconfig.json
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto5\Atividade9-2\bin\Debug\net5.0\Atividade9-2.runtimeconfig.dev.json
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto5\Atividade9-2\bin\Debug\net5.0\Atividade9-2.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto5\Atividade9-2\bin\Debug\net5.0\ref\Atividade9-2.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto5\Atividade9-2\bin\Debug\net5.0\Atividade9-2.pdb
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto5\Atividade9-2\obj\Debug\net5.0\Atividade9-2.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto5\Atividade9-2\obj\Debug\net5.0\Atividade9-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto5\Atividade9-2\obj\Debug\net5.0\Atividade9-2.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto5\Atividade9-2\obj\Debug\net5.0\Atividade9-2.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto5\Atividade9-2\obj\Debug\net5.0\Atividade9-2.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto5\Atividade9-2\obj\Debug\net5.0\Atividade9-2.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto5\Atividade9-2\obj\Debug\net5.0\ref\Atividade9-2.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto5\Atividade9-2\obj\Debug\net5.0\Atividade9-2.pdb
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto5\Atividade9-2\obj\Debug\net5.0\Atividade9-2.genruntimeconfig.cache

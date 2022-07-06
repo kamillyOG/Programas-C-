@@ -1,0 +1,5 @@
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv5\obj\Debug\net5.0\Atv5.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv5\obj\Debug\net5.0\Atv5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv5\obj\Debug\net5.0\Atv5.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv5\obj\Debug\net5.0\Atv5.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv5\obj\Debug\net5.0\Atv5.csproj.CoreCompileInputs.cache

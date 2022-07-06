@@ -1,0 +1,16 @@
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv3\obj\Debug\net5.0\Atv3.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv3\obj\Debug\net5.0\Atv3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv3\obj\Debug\net5.0\Atv3.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv3\obj\Debug\net5.0\Atv3.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv3\obj\Debug\net5.0\Atv3.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv3\bin\Debug\net5.0\Atv3.exe
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv3\bin\Debug\net5.0\Atv3.deps.json
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv3\bin\Debug\net5.0\Atv3.runtimeconfig.json
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv3\bin\Debug\net5.0\Atv3.runtimeconfig.dev.json
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv3\bin\Debug\net5.0\Atv3.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv3\bin\Debug\net5.0\ref\Atv3.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv3\bin\Debug\net5.0\Atv3.pdb
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv3\obj\Debug\net5.0\Atv3.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv3\obj\Debug\net5.0\ref\Atv3.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv3\obj\Debug\net5.0\Atv3.pdb
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv3\obj\Debug\net5.0\Atv3.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv6\bin\Debug\net5.0\Atv6.exe
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv6\bin\Debug\net5.0\Atv6.deps.json
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv6\bin\Debug\net5.0\Atv6.runtimeconfig.json
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv6\bin\Debug\net5.0\Atv6.runtimeconfig.dev.json
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv6\bin\Debug\net5.0\Atv6.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv6\bin\Debug\net5.0\ref\Atv6.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv6\bin\Debug\net5.0\Atv6.pdb
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv6\obj\Debug\net5.0\Atv6.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv6\obj\Debug\net5.0\Atv6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv6\obj\Debug\net5.0\Atv6.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv6\obj\Debug\net5.0\Atv6.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv6\obj\Debug\net5.0\Atv6.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv6\obj\Debug\net5.0\Atv6.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv6\obj\Debug\net5.0\ref\Atv6.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv6\obj\Debug\net5.0\Atv6.pdb
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto3\Atv6\obj\Debug\net5.0\Atv6.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto2\Atividade8\bin\Debug\net5.0\Atividade8.exe
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto2\Atividade8\bin\Debug\net5.0\Atividade8.deps.json
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto2\Atividade8\bin\Debug\net5.0\Atividade8.runtimeconfig.json
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto2\Atividade8\bin\Debug\net5.0\Atividade8.runtimeconfig.dev.json
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto2\Atividade8\bin\Debug\net5.0\Atividade8.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto2\Atividade8\bin\Debug\net5.0\ref\Atividade8.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto2\Atividade8\bin\Debug\net5.0\Atividade8.pdb
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto2\Atividade8\obj\Debug\net5.0\Atividade8.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto2\Atividade8\obj\Debug\net5.0\Atividade8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto2\Atividade8\obj\Debug\net5.0\Atividade8.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto2\Atividade8\obj\Debug\net5.0\Atividade8.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto2\Atividade8\obj\Debug\net5.0\Atividade8.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto2\Atividade8\obj\Debug\net5.0\Atividade8.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto2\Atividade8\obj\Debug\net5.0\ref\Atividade8.dll
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto2\Atividade8\obj\Debug\net5.0\Atividade8.pdb
+C:\Users\kamil\Desktop\Faculdade\Algoritimos- Lab\Projeto2\Atividade8\obj\Debug\net5.0\Atividade8.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\temp\Projeto2\Atividade3\obj\Debug\net6.0\Atividade3.csproj.AssemblyReference.cache
+C:\temp\Projeto2\Atividade3\obj\Debug\net6.0\Atividade3.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Projeto2\Atividade3\obj\Debug\net6.0\Atividade3.AssemblyInfoInputs.cache
+C:\temp\Projeto2\Atividade3\obj\Debug\net6.0\Atividade3.AssemblyInfo.cs
+C:\temp\Projeto2\Atividade3\obj\Debug\net6.0\Atividade3.csproj.CoreCompileInputs.cache
+C:\temp\Projeto2\Atividade3\bin\Debug\net6.0\Atividade3.exe
+C:\temp\Projeto2\Atividade3\bin\Debug\net6.0\Atividade3.deps.json
+C:\temp\Projeto2\Atividade3\bin\Debug\net6.0\Atividade3.runtimeconfig.json
+C:\temp\Projeto2\Atividade3\bin\Debug\net6.0\Atividade3.dll
+C:\temp\Projeto2\Atividade3\bin\Debug\net6.0\Atividade3.pdb
+C:\temp\Projeto2\Atividade3\obj\Debug\net6.0\Atividade3.dll
+C:\temp\Projeto2\Atividade3\obj\Debug\net6.0\refint\Atividade3.dll
+C:\temp\Projeto2\Atividade3\obj\Debug\net6.0\Atividade3.pdb
+C:\temp\Projeto2\Atividade3\obj\Debug\net6.0\Atividade3.genruntimeconfig.cache
+C:\temp\Projeto2\Atividade3\obj\Debug\net6.0\ref\Atividade3.dll
